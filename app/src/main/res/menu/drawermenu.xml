@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="location" android:id="@+id/loc" android:icon="@drawable/ic_location_on_black_24dp"></item>
+    <item android:title="Yours Oder" android:id="@+id/oder_details" android:icon="@drawable/ic_shopping_cart_black_24dp"></item>
+    <item android:title="Your Wish List" android:id="@+id/wishlist" android:icon="@drawable/ic_list_black_24dp"></item>
+    <item android:title="Your Account" android:id="@+id/acc_ount" android:icon="@drawable/ic_account_box_black_24dp"></item>
+    <item android:title="Customer Services" android:id="@+id/c_s" android:icon="@drawable/ic_call_black_24dp"></item>
+    <item android:title="Logout" android:id="@+id/logout" android:icon="@drawable/ic_exit_to_app_black_24dp"></item>
+</menu>

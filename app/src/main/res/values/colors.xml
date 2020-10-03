@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E6564C</color>
+    <color name="colorPrimaryDark">#E6564C</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bc">#E6564C</color>
+    <color name="g_end">#D31F82</color>
+    <color name="drawing_bar">#5255BA</color>
+    <color name="black">#000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="login">#808080</color>
+    <color name="login1">#494343</color>
+</resources>
